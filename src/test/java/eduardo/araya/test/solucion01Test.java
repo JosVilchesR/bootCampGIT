@@ -1,3 +1,4 @@
+package eduardo.araya.test;
 import eduardo.araya.fighter;
 import static org.junit.Assert.*;
 import eduardo.araya.solucion01;

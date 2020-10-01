@@ -1,3 +1,5 @@
+package eduardo.araya.test;
+
 import eduardo.araya.e3Git;
 import static org.junit.Assert.*;
 import org.junit.Test;
