@@ -18,6 +18,10 @@ public class e3Git {
        e2s ho1y mierc3oles => ho1y 2es 3miercoles
      */
 
+    /*
+    Se agrega nuevos comentarios para mejorrar entendimiento del codigo
+     */
+
     public String ordenarCadena(String s1) {
 
         //1. dividir String en un Lista de String
